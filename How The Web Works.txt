@@ -1,0 +1,10 @@
+PART ONE
+1. HTTP  is hypertext transfer portal, a set of rules for how you communicate between browser and server
+2. URL is a broswer address or identification
+3. DNS is Domain Name System, acts as a phonebook for computers
+4. A query string is a part of a URL that assigns values to specified parameters
+5. GET, doesn't change the server data and POST, does change the server data
+6. An HTTP request is a message that is communicated to the server.
+7. An HTTP response is a message that is communicated through the server after processing the requests and executing them.
+8. An HTTP header is a field that passes additional info based on the request and response communication.
+9. A request is made after typing in the URL and hitting enter, the request is sent to the server and processed before responding with pieces of the server coming in slowly.
